@@ -1,0 +1,9 @@
+<suite name="resolver">
+<test name="Regression" allow-return-values="true">
+ <classes> 
+
+<class name="testLayer.TestClass"></class>
+ </classes>
+</test>
+
+</suite>
